@@ -1,0 +1,1 @@
+eval "$(_TCLI_COMPLETE=source_zsh tcli)"
